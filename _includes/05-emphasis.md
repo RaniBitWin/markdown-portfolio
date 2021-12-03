@@ -7,7 +7,7 @@
    5. _One symbol for the largest and six symbols for the smallest_.
 2. **Image**
    1. The syntax is like this: ``` ![smile](https://octodex.github.com/images/yaktocat) ```.
-3. **Links **
+3. **Links**
    1. For _absolute addresses_ the syntax is like this: ``` [badge-nlw-heat](https://ranibitwin.github.io/badge-nlw-heat/) ```.
    2. For _relative addresses_ the syntax is like this: ``` [my first pull request](./my-first-pull-request.md) ```.  
 4. **Emojis**
